@@ -48,7 +48,7 @@ def sentence_display():
 
 # Labels
 
-label1 = tk.Label(text="Welcom to the Pig Latin Translater.\n  v1.2", font=("Times New Roman",15))
+label1 = tk.Label(text="Welcome to the Pig Latin Translater.\n  v1.2", font=("Times New Roman",15))
 label1.grid(column=1, row=0)
 
 # get sentence from user
